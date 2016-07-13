@@ -1,0 +1,7 @@
+#!/bin/bash
+
+git init
+git config --global user.name "simryc"
+git config --global user.email tmp@wle.pl
+
+
